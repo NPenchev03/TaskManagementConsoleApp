@@ -38,11 +38,3 @@ The application relies on the following NuGet packages:
 
 •	Newtonsoft.Json: Used for JSON serialization and deserialization.
 
-•	NUnit.Framework: Used for the purpose of unit testing the application. 
-
-•	NUnit3TestAdapter: Required for executing NUnit tests within Visual Studio.
-
-•	coverlet.collector: Used for collecting code coverage information during test execution.
-
-•	Microsoft.NET.Test.SDK: Provides the necessary tools and infrastructure for running tests.
-
